@@ -1,0 +1,4 @@
+firstJoinMessage: '&6<player> &7has joined the server for the first time!'
+
+JoinMessage: '&8[&2+&8] &a<player>'
+LeaveMessage: '&8[&4-&8] &c<player>'

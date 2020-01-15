@@ -1,0 +1,10 @@
+name: VentusLightsaber
+version: 1.0
+author: BruceTWayne
+main: me.brucetwayne.ventuslightsaber.Main
+description: Plugin made for the VentusNetwork Advanced Lightsabers Server, GalacticBattle.
+
+commands:
+  lightsabergui
+   aliases: [lsg]
+   description: Lightsaber Creation GUI.

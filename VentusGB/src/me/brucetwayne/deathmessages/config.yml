@@ -1,0 +1,2 @@
+onPlayerKill: '&7&lFORCE &8» &6You have killed &c<player>&6!'
+onPlayerKilled: '&7&lFORCE &8» &6You were killed by &c<player>&6!'
